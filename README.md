@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KritamBista
-- 👀 I’m interested in web/app development & AI.
-- 🌱 I’m currently using techstacks like laravel flutter,django,firebase .
+- 👀 I’m on web/app development & AI.
+- 🌱 I’m currently using techstacks like laravel flutter,python,firebase .
 - 📫 you can reach to me from facebook here: https://www.facebook.com/kritam.bista
 
 <!---
